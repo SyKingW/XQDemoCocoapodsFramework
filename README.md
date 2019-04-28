@@ -1,9 +1,4 @@
-# 利用Cocoapods打包Framework
-
-
 # 演示打包 Framework 和 获取Framework
-
-
 
 * 文件路径  
 
@@ -413,4 +408,4 @@ dyld: Library not loaded: @rpath/XQCocoapodsFrameworkLib.framework/XQCocoapodsFr
 
 
 # 项目地址
-照例， 项目地址给出 [Github]() 
+照例， 项目地址给出 [Github](https://github.com/SyKingW/XQDemoCocoapodsFramework) 
