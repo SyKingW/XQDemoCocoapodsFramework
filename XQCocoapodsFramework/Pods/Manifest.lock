@@ -1,0 +1,21 @@
+PODS:
+  - XQCocoapodsFrameworkBase (0.1)
+  - XQCocoapodsFrameworkResource (0.1)
+
+DEPENDENCIES:
+  - XQCocoapodsFrameworkBase (from `../XQCocoapodsFrameworkBase`)
+  - XQCocoapodsFrameworkResource (from `../XQCocoapodsFrameworkResource`)
+
+EXTERNAL SOURCES:
+  XQCocoapodsFrameworkBase:
+    :path: "../XQCocoapodsFrameworkBase"
+  XQCocoapodsFrameworkResource:
+    :path: "../XQCocoapodsFrameworkResource"
+
+SPEC CHECKSUMS:
+  XQCocoapodsFrameworkBase: e295e5b691440d546ed8b4bb072589e3cc8869de
+  XQCocoapodsFrameworkResource: 7b97952353108b67ef1b5ffd7e2f3d649deda9e0
+
+PODFILE CHECKSUM: 44b49480e1c6701274966e3288e805cfc63cc972
+
+COCOAPODS: 1.6.1

@@ -1,0 +1,6 @@
+framework module XQCocoapodsFrameworkLib {
+  umbrella header "XQCocoapodsFrameworkLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,9 @@
+target 'XQCocoapodsFramework' do
+  use_frameworks!
+  
+  pod 'XQCocoapodsFrameworkBase', :path => '../XQCocoapodsFrameworkBase'
+  pod 'XQCocoapodsFrameworkResource', :path => '../XQCocoapodsFrameworkResource'
+  #pod 'XQCocoapodsFrameworkLib', :path => '../XQCocoapodsFrameworkLib'
+
+end
+

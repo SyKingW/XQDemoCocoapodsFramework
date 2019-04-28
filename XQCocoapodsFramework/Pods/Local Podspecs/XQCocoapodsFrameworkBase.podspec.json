@@ -1,0 +1,18 @@
+{
+  "name": "XQCocoapodsFrameworkBase",
+  "version": "0.1",
+  "homepage": "https://github.com/SyKingW/XQProjectTool",
+  "summary": "一些项目里面要用到的’小工具’.",
+  "license": "MIT",
+  "authors": {
+    "Sinking": "哈哈"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/SyKingW/XQProjectTool",
+    "tag": "0.1"
+  },
+  "source_files": "Framework/**/*.{h,m}"
+}
