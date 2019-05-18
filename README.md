@@ -1,4 +1,4 @@
-# 演示打包 Framework 和 获取Framework
+# 用 CocoaPods 打包 Framework 和 获取Framework
 
 * 文件路径  
 
